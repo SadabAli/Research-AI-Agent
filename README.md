@@ -71,7 +71,7 @@ To research the reasons behind the Los Angeles fire:
 
 Below is a screenshot of the application in action:
 ![Screenshot 2025-01-12 201838](https://github.com/user-attachments/assets/abee15cf-7fad-467d-8345-7ef43e594dc3)
-![Uploading Screenshot 2025-01-12 201852.png…]()
+
 
 
 
